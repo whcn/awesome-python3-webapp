@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-__author__ = 'xwlyy'
+__author__ = 'whcn'
 
 import asyncio, logging
-#aiomysql是MySQL的Python异步驱动程序，操作数据库要用到
 import aiomysql
 
 def log(sql, args=()):#下面用到log函数的地方都要注意，输出的这些信息能让你知道这个时间点程序在干什么
