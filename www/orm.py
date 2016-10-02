@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-__author__ = 'xwlyy'
+__author__ = 'xwy'
 
 import asyncio, logging
 #aiomysql是MySQL的Python异步驱动程序，操作数据库要用到
